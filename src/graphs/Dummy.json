@@ -1,0 +1,105 @@
+{
+    "bar_graph_entry": [
+        {
+            "count": 1,
+            "name": "Gate_A"
+        },
+        {
+            "count": 3,
+            "name": "Gate_B"
+        },
+        {
+            "count": 0,
+            "name": "Gate_C"
+        },
+        {
+            "count": 0,
+            "name": "Gate_D"
+        },
+        {
+            "count": 0,
+            "name": "Falcon"
+        },
+        {
+            "count": 0,
+            "name": "Freezone"
+        },
+        {
+            "count": 0,
+            "name": "Royal"
+        },
+        {
+            "count": 0,
+            "name": "IMAX"
+        }
+    ],
+    "bar_graph_exit": [
+        {
+            "count": 0,
+            "name": "Gate_A"
+        },
+        {
+            "count": 0,
+            "name": "Gate_B"
+        },
+        {
+            "count": 0,
+            "name": "Gate_C"
+        },
+        {
+            "count": 0,
+            "name": "Gate_D"
+        },
+        {
+            "count": 0,
+            "name": "Falcon"
+        },
+        {
+            "count": 0,
+            "name": "Freezone"
+        },
+        {
+            "count": 0,
+            "name": "Royal"
+        },
+        {
+            "count": 0,
+            "name": "IMAX"
+        }
+    ],
+    "pie_chart_entry": [
+        {
+            "count": 25,
+            "name": "Gate_A"
+        },
+        {
+            "count": 75,
+            "name": "Gate_B"
+        },
+        {
+            "count": 0,
+            "name": "Gate_C"
+        },
+        {
+            "count": 0,
+            "name": "Gate_D"
+        },
+        {
+            "count": 0,
+            "name": "Falcon"
+        },
+        {
+            "count": 0,
+            "name": "Freezone"
+        },
+        {
+            "count": 0,
+            "name": "Royal"
+        },
+        {
+            "count": 0,
+            "name": "IMAX"
+        }
+    ],
+    "pie_chart_exit": []
+}
